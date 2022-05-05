@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * @author yu peng
  * @version 1.0
- * @date 2022/4/27 22:16
+ * @date 2022/4/27
  * @description
  */
 @Mapper

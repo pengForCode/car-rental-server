@@ -9,9 +9,9 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @author chang mu
+ * @author yu peng
  * @version 1.0
- * @date 2022/4/27 20:19
+ * @date 2022/4/27
  * @description 车辆表
  */
 @Data

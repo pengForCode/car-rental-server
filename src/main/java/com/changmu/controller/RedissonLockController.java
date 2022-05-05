@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * redis分布式锁控制器
- * @author chang mu
+ * @author yu peng
  * @date 2022/4/27
  */
 @RestController

@@ -5,7 +5,7 @@ import com.changmu.common.constants.ErrorCode;
 /**
  * @author yu peng
  * @version 1.0
- * @date 2022/4/28 12:00
+ * @date 2022/4/28
  * @description
  */
 public class RentalException extends RuntimeException {

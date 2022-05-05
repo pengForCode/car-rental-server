@@ -1,6 +1,5 @@
 package com.changmu.db.dto;
 
-import javax.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -9,7 +8,7 @@ import lombok.NoArgsConstructor;
 /**
  * @author yu peng
  * @version 1.0
- * @date 2022/4/28 11:19
+ * @date 2022/4/28
  * @description
  */
 @Data

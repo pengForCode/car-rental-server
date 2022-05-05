@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author chang mu
+ * @author yu peng
  * @version 1.0
  * @date 2022/4/27
  * @description redis配置

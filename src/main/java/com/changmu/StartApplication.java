@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 /**
- * @author chang mu
+ * @author yu peng
  * @version 1.0
  * @date 2022/4/27
  * @description 租车启动类
